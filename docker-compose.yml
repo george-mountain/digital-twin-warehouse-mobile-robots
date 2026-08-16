@@ -1,0 +1,11 @@
+services:
+  warehouse-amr:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: warehouse-amr-gpt-proj:latest
+    container_name: warehouse-amr
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    init: true
