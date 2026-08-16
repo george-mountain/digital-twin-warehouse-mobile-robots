@@ -1,0 +1,1 @@
+{"name":"warehouse-amr-ui","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"three":"0.178.0"},"devDependencies":{"vite":"7.0.6"}}
