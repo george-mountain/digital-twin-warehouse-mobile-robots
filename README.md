@@ -2,6 +2,9 @@
 
 A real-time 3D fulfillment-center simulation with autonomous mobile robots, dynamic A* routing, traffic avoidance, cargo workflows, battery management, charging, and a live operational dashboard.
 
+[digital_twin_warehouse_robots.webm](https://github.com/user-attachments/assets/0d617680-4b54-4fe4-a70c-e653d89effd2)
+
+
 ## Run with Docker
 
 ```bash
